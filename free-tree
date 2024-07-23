@@ -1,0 +1,17 @@
+ai-business-template-free/
+│
+├── index.html
+├── css/
+│   ├── styles.css
+│   └── responsive.css
+├── js/
+│   ├── main.js
+│   └── ai-demo.js
+├── images/
+│   ├── logo.svg
+│   ├── hero-bg.jpg
+│   └── service-icons/
+│       ├── machine-learning.svg
+│       ├── nlp.svg
+│       └── computer-vision.svg
+└── README.md
