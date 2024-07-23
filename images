@@ -1,0 +1,7 @@
+mkdir images
+mkdir images/service-icons
+touch images/logo.svg
+touch images/hero-bg.jpg
+touch images/service-icons/machine-learning.svg
+touch images/service-icons/nlp.svg
+touch images/service-icons/computer-vision.svg
