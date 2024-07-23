@@ -1,0 +1,31 @@
+ai-business-template-paid/
+│
+├── index.html
+├── services.html
+├── case-studies.html
+├── about.html
+├── contact.html
+├── css/
+│   ├── styles.css
+│   ├── responsive.css
+│   └── animations.css
+├── js/
+│   ├── main.js
+│   ├── ai-demo.js
+│   ├── interactive-infographic.js
+│   └── customizer.js
+├── images/
+│   ├── logo.svg
+│   ├── hero-bg.jpg
+│   ├── team/
+│   │   └── [AI-generated team avatars]
+│   └── service-icons/
+│       └── [Extended set of AI service icons]
+├── fonts/
+│   └── [Custom fonts]
+├── scss/
+│   ├── main.scss
+│   └── [Component-specific SCSS files]
+├── docs/
+│   └── user-guide.pdf
+└── README.md
