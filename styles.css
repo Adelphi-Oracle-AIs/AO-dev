@@ -1,0 +1,29 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Header */
+header {
+    background: #50a3a2;
+    color: white;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #0f8a89 3px solid;
+}
+
+/* More styles to be added... */
